@@ -1,0 +1,23 @@
+时间：2018.11.04
+   域名                                                  | 访问次数 | 总访问时间 | 平均访问时间 |                                    访问地址                    
+api-consumer.dianfubao.com                882             4528.62           5.13                                          /contract/singleContractAuto 
+jk.che001.com                                         44              703.98           16.0                                          /trace/app/log/batchReceive
+www.qingyidai.com                               885              7826.43          8.84                                         /qydXwcg/callback 
+www.qingyidai.com                                209             1090.1            5.22                                         /entrance/qyduser/queryxwuserinfo/json
+时间：2018.11.03
+  域名
+api-consumer.dianfubao.com                1139             5975.11       5.25                                            /contract/singleContractAuto
+jk.che001.com                                        114              1535.48       13.47                                          /trace/app/log/batchReceive                 
+www.qingyidai.com                               1322             12761.71      9.65                                           /qydXwcg/callback 
+mobile.qingyidai.com                             100               487.98         4.88                                           /nw/entrance/apis/newmt/nwgetloanlist/json
+时间：2018.11.02
+  域名
+api-consumer.dianfubao.com                1678               8781.44       5.23                                           /contract/singleContractAuto            
+jk.che001.com                                        185                2600.24       14.06                                         /trace/app/log/batchReceive
+www.qingyidai.com                                1522              15509.83      10.19                                        /qydXwcg/callback 
+www.qingyidai.com                                  267              1407.84        5.27                                          /entrance/qyduser/queryxwuserinfo/json
+时间：2018.11.01
+api-consumer.dianfubao.com                 1522                8148.1        5.35                                            /contract/singleContractAuto
+jk.che001.com                                         282                 4730.52       16.77                                         /trace/app/log/batchReceive
+www.qingyidai.com                                 1538               17853.0       11.61                                           /qydXwcg/callback
+www.qingyidai.com                                 393                  2087.41        5.31                                          /entrance/qyduser/queryxwuserinfo/json
